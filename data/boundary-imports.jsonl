@@ -1,0 +1,2 @@
+{"id": "f1", "kind": "Snapshot", "metadata": "m1", "source_sequence": 1}
+{"id": "f2", "kind": "Transactional", "metadata": "m1", "source_sequence": 2}

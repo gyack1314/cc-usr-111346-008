@@ -1,0 +1,9 @@
+{
+  "after_snapshot": {
+    "visit/1": "10",
+    "visit/2": "20"
+  },
+  "after_transaction": {
+    "visit/2": "20"
+  }
+}

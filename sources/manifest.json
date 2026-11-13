@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "sources/snapshot.xml",
+      "bytes": 1278,
+      "sha256": "c53045195e1b7578badd578e96cd88ca44a02bcfec99428151f7b48bca4a555e"
+    },
+    {
+      "path": "sources/transaction.xml",
+      "bytes": 529,
+      "sha256": "9ed5e6d43a2eee8b10f8e01b3c12af5419c595c9a2ab102cad5accbd8094e237"
+    },
+    {
+      "path": "sources/expected-instance-values.json",
+      "bytes": 120,
+      "sha256": "c776b8212464a6f8e0bbcc050ff8b397051709dae7870bc951ff1246c3404109"
+    }
+  ]
+}

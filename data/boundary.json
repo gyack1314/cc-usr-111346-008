@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "tables": {
+    "imports": {
+      "file": "boundary-imports.jsonl",
+      "sha256": "9c741f875444a92a5c3ceb4ef6c17d37199dabc38b0c17a392af9bae67df0def",
+      "bytes": 151,
+      "rows": 2,
+      "fields": [
+        "id",
+        "source_sequence",
+        "kind",
+        "metadata"
+      ]
+    },
+    "scope": {
+      "file": "boundary-scope.jsonl",
+      "sha256": "e81c20ee2c6aa492df94858fdf0a72ae7b284e8d577c5b3b2efe10a959437482",
+      "bytes": 60,
+      "rows": 1,
+      "fields": [
+        "id",
+        "study",
+        "subjects"
+      ]
+    },
+    "paths": {
+      "file": "boundary-paths.jsonl",
+      "sha256": "486212dcf215173f7008dbe5629516b9517a88c8c905e15a75f2874aadd98499",
+      "bytes": 169,
+      "rows": 1,
+      "fields": [
+        "id",
+        "subject",
+        "event",
+        "event_repeat",
+        "form",
+        "form_repeat",
+        "group",
+        "group_repeat",
+        "item"
+      ]
+    }
+  }
+}

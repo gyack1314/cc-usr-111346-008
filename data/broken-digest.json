@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "tables": {
+    "imports": {
+      "file": "normal-imports.jsonl",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "bytes": 151,
+      "rows": 2,
+      "fields": [
+        "id",
+        "source_sequence",
+        "kind",
+        "metadata"
+      ]
+    },
+    "scope": {
+      "file": "normal-scope.jsonl",
+      "sha256": "e81c20ee2c6aa492df94858fdf0a72ae7b284e8d577c5b3b2efe10a959437482",
+      "bytes": 60,
+      "rows": 1,
+      "fields": [
+        "id",
+        "study",
+        "subjects"
+      ]
+    },
+    "paths": {
+      "file": "normal-paths.jsonl",
+      "sha256": "9352fb909d72cb45eb38a8a5611080701ede11b6b659cc14f02559b117756139",
+      "bytes": 169,
+      "rows": 1,
+      "fields": [
+        "id",
+        "subject",
+        "event",
+        "event_repeat",
+        "form",
+        "form_repeat",
+        "group",
+        "group_repeat",
+        "item"
+      ]
+    }
+  }
+}
